@@ -1,6 +1,11 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
+- course: High School
+  institute: St. Mary's School, Margherita
+  dates: 2002 - 2014
+  logo: school.jpg
+
+- course: Higher Secondary (Science)
+  institute: Digboi College, Digboi
+  dates: 2015 - 2017
   logo: uob.png
   
 - course: Explorer Fellow
